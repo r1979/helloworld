@@ -1,7 +1,7 @@
 
 {
   "name": "helloworld",
-  "version": "0.0",
+  "version": "0.1",
   "description": "An example of package.json",
   "author": "r1979 <r1979@protonmail.com>",
   "scripts": {
