@@ -1,1 +1,12 @@
 
+{
+  "name": "helloworld",
+  "version": "0.0",
+  "description": "An example of package.json",
+  "author": "r1979 <r1979@protonmail.com>",
+  "scripts": {
+    "start": "node app.js",
+    "predeploy": "echo im about to deploy",
+    "postdeploy": "echo ive deployed",
+  }
+}
